@@ -38,10 +38,8 @@ Additionally, considering all possible inputs, the output of this digital circui
 The neuron models based on XOR and OR along with their weights can be seen in Figures \ref{h3} and \ref{h2}.
 
 
-<img src="images/xor_gate.PNG" alt="MP Neuron-Based XOR Implementation" style="width:  100 %;" class="center">
-<p><em>Figure 2: MP Neuron-Based XOR Implementation.</em></p>
-
-<img src="images/or_gate.PNG" alt="MP Neuron-Based OR Implementation" style="width:  100 %;" class="center">
-<p><em>Figure 3: MP Neuron-Based OR Implementation.</em></p>
+|<img src="images/xor_gate.PNG" alt="MP Neuron-Based XOR Implementation" style="width:  100 %;" class="center">|<img src="images/or_gate.PNG" alt="MP Neuron-Based OR Implementation" style="width:  100 %;" class="center">|
+| --- | --- |
+|<p><em>Figure 2: MP Neuron-Based XOR Implementation.</em></p>|<p><em>Figure 3: MP Neuron-Based OR Implementation.</em></p>|
 
 
