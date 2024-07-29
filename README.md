@@ -35,7 +35,7 @@ Additionally, considering all possible inputs, the output of this digital circui
 
 ### Network Theory Implementation
 
-The neuron models based on XOR and OR along with their weights can be seen in Figures \ref{h3} and \ref{h2}.
+The neuron models based on XOR and OR along with their weights can be seen in Figures 2, 3.
 
 
 |<img src="images/xor_gate.PNG" alt="MP Neuron-Based XOR Implementation" style="width:  100 %;" class="center">|<img src="images/or_gate.PNG" alt="MP Neuron-Based OR Implementation" style="width:  100 %;" class="center">|
@@ -50,7 +50,7 @@ The weights obtained in the models shown in Figures 2, 3 are based on comparing 
 
 
 
-<img src="images/two's_complement.png" alt="The implemented two's complement circuit consisting of MP neurons" style="width:  100 %;" class="center">
+<img src="images/two's_complement.PGM" alt="The implemented two's complement circuit consisting of MP neurons" style="width:  100 %;" class="center">
 <p><em>Figure 4: The implemented two's complement circuit consisting of MP neurons.</em>
 
 
@@ -94,9 +94,9 @@ In the next step, the gates implemented based on MP neurons are sequentially arr
 The output of the implemented network shown in Figure 5 for an arbitrary input is as follows.
 
 ```plaintext
-		input of the network was  0101
-		Output of the whole network (2's complement of 0101) is: 1011
-		It takes 3 clock
+input of the network was  0101
+Output of the whole network (2's complement of 0101) is: 1011
+It takes 3 clock
 ```
 
 
