@@ -133,5 +133,23 @@ The output of the network implemented using MP neurons for all possible states o
 ```
 
 
+## 👩‍🏫 About the Instructor
+
+I am Mehran Tamjidi, a passionate educator and researcher in the field of machine learning and artificial intelligence. This repository is a part of my efforts to provide comprehensive and practical knowledge to students and enthusiasts.
+
+## 📫 Contact
+
+Feel free to reach out if you have any questions or suggestions:
+- **Email**: mehrant.0611@gmail.com
+- **GitHub**: [shining0611armor](https://github.com/shining0611armor)
+
+## 📝 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+Happy Learning! 😊
 
 
