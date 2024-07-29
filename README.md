@@ -5,7 +5,7 @@ Here you will get familiar with the simple implementation of digital circuits us
 One of the approaches for implementing a 4-bit two's complement digital circuit at the gate level is based on XOR-OR implementation.
 
 
-<img src="Images/macpitz1.png" alt="Gate-level implementation of a 4-bit two's complement circuit" style="width:  100 %;" class="center">
+<img src="Images/macpitz1.PNG" alt="Gate-level implementation of a 4-bit two's complement circuit" style="width:  100 %;" class="center">
 <p><em>Figure 1: Gate-level implementation of a 4-bit two's complement circuit.</em></p>
 
 To implement the presented circuit based on McCulloch-Pitts neurons, the XOR and OR structures can be replaced with their equivalent structures consisting of McCulloch-Pitts neurons, or simply MP neurons.
@@ -37,20 +37,9 @@ Additionally, considering all possible inputs, the output of this digital circui
 
 The neuron models based on XOR and OR along with their weights can be seen in Figures \ref{h3} and \ref{h2}.
 
-\begin{figure}[!ht]
-	\centering
-	\begin{minipage}[t]{0.46\textwidth}
-		\centering
-		\includegraphics[width=\linewidth,height=4.2cm,keepaspectratio]{xor_gate.png} % Set the desired height but keep aspect ratio
-		\caption{MP Neuron-Based XOR Implementation}
-		\label{h2}
-	\end{minipage}\hfill
-	\begin{minipage}[t]{0.45\textwidth}
-		\centering
-		\includegraphics[width=\linewidth,height=3.2cm,keepaspectratio]{or_gate.png} % Set the desired height but keep aspect ratio
-		\caption{MP Neuron-Based OR Implementation}
-		\label{h3}
-	\end{minipage}
-\end{figure}
+
+|<img src="Images/xor_gate.PNG" alt="MP Neuron-Based XOR Implementation" style="width:  100 %;" class="center">|<img src="Images/or_gate.PNG" alt="MP Neuron-Based OR Implementation" style="width:  100 %;" class="center">|
+
+|<p><em>Figure 2: MP Neuron-Based XOR Implementation.</em></p>|<p><em>Figure 2: MP Neuron-Based OR Implementation.</em></p>|
 
 
