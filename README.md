@@ -5,7 +5,6 @@ Here you will get familiar with the simple implementation of digital circuits us
 
 You can quickly access and run this project in Google Colab by clicking the following icon:
 
-https://github.com/shining0611armor/Implementing-4-bit-two-s-complement-arithmetic-using-McCulloch-Pitts-neurons/blob/main/4-bit%20two's%20complement%20using%20McCulloch-Pitts%20neurons.ipynb
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/shining0611armor/Implementing-4-bit-two-s-complement-arithmetic-using-McCulloch-Pitts-neurons/blob/main/4-bit%20two's%20complement%20using%20McCulloch-Pitts%20neurons.ipynb)
 
