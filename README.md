@@ -50,7 +50,7 @@ The weights obtained in the models shown in Figures 2, 3 are based on comparing 
 
 
 
-<img src="images/two's_complement.PGM" alt="The implemented two's complement circuit consisting of MP neurons" style="width:  100 %;" class="center">
+<img src="images/two's_complement.PNG" alt="The implemented two's complement circuit consisting of MP neurons" style="width:  100 %;" class="center">
 <p><em>Figure 4: The implemented two's complement circuit consisting of MP neurons.</em>
 
 
